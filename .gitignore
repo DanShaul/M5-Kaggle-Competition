@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+*.err.log
+.DS_Store
+Thumbs.db
+pickles/train_cv1.pkl
+pickles/*.pkl
+pickles/*.pickle
+pickles/*.pkl.part*
+data/*.csv

@@ -1,0 +1,6 @@
+models/*.lgb filter=lfs diff=lfs merge=lfs -text
+predictions/*.csv filter=lfs diff=lfs merge=lfs -text
+data/*.zip filter=lfs diff=lfs merge=lfs -text
+pickles/*.pkl filter=lfs diff=lfs merge=lfs -text
+pickles/*.pkl.part* filter=lfs diff=lfs merge=lfs -text
+data/*.zip filter=lfs diff=lfs merge=lfs -text
